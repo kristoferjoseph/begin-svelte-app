@@ -5,6 +5,7 @@ making-8k5
 
 @http
 get /api
+get /stuff
 
 @tables
 data
